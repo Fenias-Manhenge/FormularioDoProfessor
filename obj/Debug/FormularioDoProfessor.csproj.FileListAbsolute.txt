@@ -1,0 +1,9 @@
+C:\Users\Fenias\source\repos\FormularioDoProfessor\bin\Debug\FormularioDoProfessor.exe.config
+C:\Users\Fenias\source\repos\FormularioDoProfessor\bin\Debug\FormularioDoProfessor.exe
+C:\Users\Fenias\source\repos\FormularioDoProfessor\bin\Debug\FormularioDoProfessor.pdb
+C:\Users\Fenias\source\repos\FormularioDoProfessor\obj\Debug\FormularioDoProfessor.csprojAssemblyReference.cache
+C:\Users\Fenias\source\repos\FormularioDoProfessor\obj\Debug\FormularioDoProfessor.Form1.resources
+C:\Users\Fenias\source\repos\FormularioDoProfessor\obj\Debug\FormularioDoProfessor.Properties.Resources.resources
+C:\Users\Fenias\source\repos\FormularioDoProfessor\obj\Debug\FormularioDoProfessor.csproj.GenerateResource.cache
+C:\Users\Fenias\source\repos\FormularioDoProfessor\obj\Debug\FormularioDoProfessor.exe
+C:\Users\Fenias\source\repos\FormularioDoProfessor\obj\Debug\FormularioDoProfessor.pdb
